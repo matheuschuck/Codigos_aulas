@@ -23,7 +23,10 @@ solução que cubra todas.
 Para ver mais consulte:
 https://www.moodle.unisinos.br/pluginfile.php/2700396/mod_resource/content/4/exercicio_aula10.pdf
 
-O tabuleiro é de tamanho 8x8 formando 64 posições, e tem um cubo ocupado o 
+O tabuleiro é de tamanho 8x8 formando 64 posições, e tem um cubo ocupado o
 quadrado 6x e 5y.
 
 '''
+
+a = 0
+print(a)
