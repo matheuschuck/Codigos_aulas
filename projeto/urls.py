@@ -18,4 +18,8 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    # path('settings', ), # pagina de configuracoes
+    # path('dashboard', ), # pagina de dashboard
+    # path('devices', ), # para que contem os dispositivos
+
 ]
